@@ -1,6 +1,6 @@
 <div align="center">
 
-![Gia Huy Nguyen - AI and Computer Vision Engineer](./assets/header.svg)
+![Gia Huy Nguyen - AI Engineer](./assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+AI+systems+from+research+to+deployment;Computer+Vision+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;Evidence-first+engineering%2C+measurable+results)](https://git.io/typing-svg)
 
