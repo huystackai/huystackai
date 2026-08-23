@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Gia Huy Nguyen</title>
+  <desc id="desc">AI and Computer Vision Engineer, AI Generalist</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0b1b24"/>
+      <stop offset="1" stop-color="#0b2e21"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16a34a"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="50" rx="260" ry="190" fill="url(#glow)"/>
+
+  <g fill="none" stroke="#22c55e" stroke-opacity="0.2" stroke-width="1.5">
+    <path d="M865 43L960 89L1050 36L1140 89"/>
+    <path d="M900 166L980 116L1068 168L1160 115"/>
+    <path d="M960 89L980 116M1050 36L1068 168M1140 89L1160 115"/>
+  </g>
+  <g fill="#4ade80">
+    <circle cx="865" cy="43" r="4"/><circle cx="960" cy="89" r="5"/>
+    <circle cx="1050" cy="36" r="4"/><circle cx="1140" cy="89" r="5"/>
+    <circle cx="900" cy="166" r="4"/><circle cx="980" cy="116" r="4"/>
+    <circle cx="1068" cy="168" r="5"/><circle cx="1160" cy="115" r="4"/>
+  </g>
+
+  <rect x="72" y="52" width="58" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="125" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="750" letter-spacing="-1.5">Gia Huy Nguyen</text>
+  <text x="75" y="167" fill="#4ade80" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="19" font-weight="600" letter-spacing="1.3">AI &amp; COMPUTER VISION ENGINEER</text>
+  <text x="75" y="205" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17">Building intelligent systems from research to deployment</text>
+
+  <path d="M0 234C190 212 315 249 503 232C699 214 856 245 1010 224C1084 214 1148 217 1200 224V260H0Z" fill="#16a34a" fill-opacity="0.18"/>
+  <path d="M0 246C194 228 329 258 522 243C720 228 877 255 1032 236C1098 228 1155 232 1200 238V260H0Z" fill="#22c55e" fill-opacity="0.24"/>
+</svg>

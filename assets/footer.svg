@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Decorative green footer wave">
+  <defs>
+    <linearGradient id="footer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#14532d"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 22C170 61 304 4 489 28C692 55 798 12 995 26C1085 33 1148 27 1200 14V90H0Z" fill="url(#footer)"/>
+  <path d="M0 36C172 69 314 18 494 40C693 64 810 27 997 40C1084 46 1145 42 1200 29" fill="none" stroke="#4ade80" stroke-opacity="0.35" stroke-width="2"/>
+</svg>

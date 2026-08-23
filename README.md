@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,55:14532D,100:22C55E&text=Gia%20Huy%20Nguyen&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=AI%20%26%20Computer%20Vision%20Engineer%20%E2%80%A2%20AI%20Generalist&descAlignY=58&descSize=17&animation=fadeIn)
+![Gia Huy Nguyen - AI and Computer Vision Engineer](./assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+AI+systems+from+research+to+deployment;Computer+Vision+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;Evidence-first+engineering%2C+measurable+results)](https://git.io/typing-svg)
 
@@ -89,6 +89,6 @@ If you're working on applied AI, computer vision, retrieval, or agent systems, I
 
 ![Profile views](https://komarev.com/ghpvc/?username=huystackai&style=flat-square&color=22C55E&label=PROFILE+VIEWS)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,55:14532D,100:22C55E)
+![Footer](./assets/footer.svg)
 
 </div>
